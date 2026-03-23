@@ -1,0 +1,5 @@
+{
+  "name": "High-Tech Role-Based Dashboard",
+  "description": "A responsive Angular 18 application with role-based authentication (Admin, User, Manager), featuring high-tech editorial design, custom charts, and interactive dashboards.",
+  "requestFramePermissions": []
+}
