@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#0a0a0f"/>
+  <rect x="0" y="0" width="240" height="700" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.06)"/>
+  <rect x="20" y="24" width="40" height="40" rx="10" fill="#3b82f6"/>
+  <text x="72" y="52" fill="#fff" font-family="system-ui,sans-serif" font-size="16" font-weight="700">TECH<tspan fill="#3b82f6">OS</tspan></text>
+  <rect x="16" y="100" width="208" height="40" rx="12" fill="rgba(59,130,246,0.12)" stroke="rgba(59,130,246,0.35)"/>
+  <text x="56" y="126" fill="#60a5fa" font-family="system-ui,sans-serif" font-size="12">My Dashboard</text>
+  <text x="56" y="180" fill="#666" font-family="system-ui,sans-serif" font-size="12">My Activity</text>
+  <text x="56" y="220" fill="#666" font-family="system-ui,sans-serif" font-size="12">Profile Settings</text>
+  <text x="280" y="56" fill="#888" font-family="monospace,sans-serif" font-size="11">USER</text>
+  <text x="280" y="96" fill="#fff" font-family="system-ui,sans-serif" font-size="28" font-weight="800">My Workspace</text>
+  <rect x="280" y="130" width="900" height="140" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="280" y="290" width="430" height="300" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="730" y="290" width="450" height="300" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="310" y="330" width="360" height="24" rx="4" fill="rgba(59,130,246,0.2)"/>
+  <rect x="310" y="370" width="280" height="24" rx="4" fill="rgba(255,255,255,0.06)"/>
+  <rect x="310" y="410" width="320" height="24" rx="4" fill="rgba(255,255,255,0.06)"/>
+  <text x="600" y="680" text-anchor="middle" fill="#444" font-family="system-ui,sans-serif" font-size="10">FAO-Blog · User dashboard (illustrative)</text>
+</svg>
